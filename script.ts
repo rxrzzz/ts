@@ -1,6 +1,9 @@
 console.log("hi from ts file!.");
 
-function compare(n1: number, n2: number) {
-  if (n1 > n2) return n1;
-  else return n2;
+let a = 10;
+let b = 12;
+let c = a + b;
+for (let i = 0; i < 5; i++) {
+  console.log(i);
 }
+console.log(c);
