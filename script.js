@@ -1,11 +1,5 @@
 "use strict";
-function compare(n1, n2) {
-    if (n1 > n2) {
-        console.log("n1 is bigger");
-    }
-    else {
-        console.log("n2 is bigger");
-    }
-}
-compare(1, 2);
+let n;
+n = 10;
+n = "ABC";
 //# sourceMappingURL=script.js.map
